@@ -1,4 +1,4 @@
-# Hey There, I'm Cam Rasmussen
+# Hey There, I'm Cam Rasmussen a future Cybersecurity professional
 I'm a computer science senior at American International College and I'm on the cybersecurity track. The programming side of security is what I enjoy the most and I'm wokring toward a career in the field here in Massachussetts.
 
 ## Technologies & Tools
