@@ -6,3 +6,8 @@ I'm a computer science senior at American International College and I'm on the c
 - **Currently Learning**: Git workflows, and secure code practices
 - **Tools**: VS Code, Git, and GitHub
 - **Interests**: Cybersecurity, writing clean and secure code
+
+## What I'm Currently Working On
+- Building This Profile while learning professional Git workflows
+- Creating a personal portfolio website for my Intro to CS final project
+- Exploring different areas of cybersecurity to find where I want to specialize
