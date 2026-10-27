@@ -20,3 +20,9 @@ I'm a computer science senior at American International College and I'm on the c
 - **LinkedIn**: [Cam Rasmussen](https://www.linkedin.com/in/cam-rasmussen-526558398/)
 - **Email**: camraz8808@gmail.com
 - **Portfolio**: Coming Soon
+
+## Fun Facts
+- I play golf which is how I came up with the idea for my club selector chatbot
+- I like to play video games of all varieties
+- Outside of school, I'm a sales team lead at HeyDude
+- I also enjoy hanging out with my Friends and Family
