@@ -13,7 +13,7 @@ I'm a computer science senior at American International College and I'm on the c
 - Exploring different areas of cybersecurity to find where I want to specialize
 
 ## Past Projects
-- Golf Club Selector: A python chatbot that recommends golf clubs with JSON based data storage
+- **Golf Club Selector**: A python chatbot that recommends golf clubs with JSON based data storage
 
 
 ## Let's Connect
